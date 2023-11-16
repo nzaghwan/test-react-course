@@ -3,8 +3,8 @@ export const data = [
         img: require("./img/0eac04d6-67c7-4d17-a175-2ee35944cc45.webp"),
         title:"Treehouse hosted by Christopher",
         desc:"4 guests · 2 bedrooms · 3 beds · 1 bath",
-        review:"4.99",
-        price:"$413 night"
+        review:"4.9922222",
+        price:"$413111111 night"
     },
     {
         img: require("./img/1526f178-6e3b-4214-a785-849da2cc7b83.webp"),
